@@ -10,4 +10,4 @@ def home():
 
 
 if __name__ == '__main__':
-   server.run(debug = True, port=5051)
+   server.run(debug = True)
